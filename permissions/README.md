@@ -8,4 +8,5 @@
 7-everybody, adds execute permission to owner,group owner and other users for the file hello.
 8-James_Bond, sets the file so only the other users have all the permissions to edit file.
 9-John_Doe, sets the permissions of hello to rwxr-x-wx.
+10-mirror_permissions, sets the perrmissions of hello to match the pemissions of olleh.
 
