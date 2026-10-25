@@ -10,3 +10,4 @@
 9-John_Doe, sets the permissions of hello to rwxr-x-wx.
 10-mirror_permissions, sets the perrmissions of hello to match the pemissions of olleh.
 11-directories_permissions, adds permission for all users for every subdirectory of the current directory.
+12-directory_permissions, creates a directory named dir with permissions 751.
