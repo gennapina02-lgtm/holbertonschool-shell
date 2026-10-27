@@ -11,4 +11,5 @@
 10-no_more_js, deletes all regular files (not the directories)  with the .js extension from the current directory and subfolders.
 11-directories, counts all directories and subdirectories including hidden ones but excluding the current directory itself.
 12-newest_files, displays the 10 newest entries in the current directory one per line and sorted from newest to oldest.
-io_redirections_and_filters, reads words from standard input and prints only words that appear exactly once and there sorted.
+13-unique, reads words from standard input and prints only words that appear exactly once and there sorted.
+14-findthatword, displays every line containing the pattern root from the file /etc/passwd.
